@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/taakuuyaa/taakuuyaa/main/profile-summary-card-output/dark/4-productive-time.svg)
+```
+
+    
